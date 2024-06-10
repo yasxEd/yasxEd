@@ -31,3 +31,28 @@
 <div align="center">
 
 </div>
+
+<h2 align = "center"> 📉 GitHub Stats</h2>
+<br>
+<div> 
+    <p align = "center">
+        <a href="https://github-readme-stats.vercel.app">
+            <img width="41%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=yasxEd&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
+        </a>
+        <a href="https://github-readme-streak-stats.herokuapp.com">
+            <img width="41%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=yasxEd&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
+        </a><!--change language to japanese locale=jp-->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasxEd&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="center" width = "32%">
+        </a>
+    </p>
+</div>
+
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">yasxEd</a></p>
