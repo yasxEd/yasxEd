@@ -42,7 +42,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.pat }}
+          github_token: ${{ secrets.PAT }}
           branch: master
           force: true
 
@@ -52,4 +52,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.pat }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
