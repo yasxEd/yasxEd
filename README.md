@@ -1,5 +1,33 @@
 <div align="center">
-    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="[https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=](https://typograssy.deno.dev/api?text=(%E0%B8%87%20%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000&speed=204)">
-    </a>
+    <img align="left" src="https://media3.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif?cid=6c09b952erryymeydgktb979waq24m3symwhw7athn6w1qq7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="21%" style="display:inline;">
+    <img align="right" src="https://media3.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif?cid=6c09b952erryymeydgktb979waq24m3symwhw7athn6w1qq7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="21%" style="display:inline;">
+    <img src="https://cdn.myportfolio.com/f2ce49b4-cf1c-46c5-a835-da38145ea70d/341ed1ab-e4d2-4e47-a854-dbd0f51b1467_rw_1200.gif?h=2111c5a4992ba1cb5f8d8f7d81874f51" alt="Welcome GIF" width="50%">
+    <br>
+    <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+yasxEd!;" />
+    </h1>
+</div>
+    <br/>
+    <h3 align="center">A passionate software Engineer</h3>
+    <br>
+    <br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+
 </div>
