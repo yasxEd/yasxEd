@@ -45,8 +45,9 @@
 
 <br>
 
-![snake gif](https://github.com/yasxEd/yasxEd/blob/output/github-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/yasxEd/yasxEd/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
 
 
 <br>
