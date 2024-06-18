@@ -49,17 +49,17 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api?username=yasxEd&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="yasxEd's Stats" height="145"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yasxEd&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="yasxEd's Stats" height="130"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasxEd&theme=dark&hide_border=true" alt="yasxEd's Streak" height="145"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasxEd&theme=dark&hide_border=true" alt="yasxEd's Streak" height="130"/>
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yasxEd&theme=dark&show_icons=true&hide_border=true&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasxEd&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="yasxEd's Top Languages" height="145"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasxEd&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="yasxEd's Top Languages" height="130"/>
     </a>
 </div>
 
-<br><br><br>
+<br><br>
 
 <h3 align="center" style="font-family: Poppins;">( ✧≖ ͜ʖ≖) Contribution </h3>
 <p align="center">
