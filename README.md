@@ -45,7 +45,7 @@
 
 <br>
 
-![snake gif](https://github.com/yasxEd/yasxEd/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yasxEd/yasxEd/blob/output/github-snake.svg)
 
 
 
