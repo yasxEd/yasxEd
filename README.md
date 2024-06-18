@@ -1,7 +1,7 @@
 <div align="center">
     <img align="left" src="https://media3.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif?cid=6c09b952erryymeydgktb979waq24m3symwhw7athn6w1qq7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="21%" style="display:inline;">
     <img align="right" src="https://media3.giphy.com/media/HQp9pMIlKV6zQiBlBi/giphy.gif?cid=6c09b952erryymeydgktb979waq24m3symwhw7athn6w1qq7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="21%" style="display:inline;">
-    <img src="https://cdn.myportfolio.com/f2ce49b4-cf1c-46c5-a835-da38145ea70d/341ed1ab-e4d2-4e47-a854-dbd0f51b1467_rw_1200.gif?h=2111c5a4992ba1cb5f8d8f7d81874f51" alt="Welcome GIF" width="50%">
+    <img src="9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff.gif" alt="Welcome GIF" width="30%">
     <br><br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+yasxEd!;" />
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
