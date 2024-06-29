@@ -4,7 +4,7 @@
     <img src="9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff.gif" alt="Welcome GIF" width="25%">
     <br><br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+yasxEd!;" />
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 
 <br><br>
 <h3 align="center" style="font-family: Poppins;">𓆩✧︎𓆪 GitHub Stats 𓆩✧︎𓆪</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img src="https://github-readme-stats.vercel.app/api?username=yasxEd&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="yasxEd's Stats" height="120"/>
@@ -59,6 +59,7 @@
     </a>
 </div>
 
+
 <br><br>
 
 <h3 align="center" style="font-family: Poppins;">( ✧≖ ͜ʖ≖) Contribution </h3>
@@ -66,5 +67,10 @@
   <img src="https://github.com/yasxEd/yasxEd/blob/output/github-snake-dark.svg" alt="snake gif">
 </p>
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
 <br>
 <p align="right" style="font-family: Poppins;"><em>Created by <b>yasxEd</b></em></p>
+
